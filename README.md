@@ -1,2 +1,2 @@
-webdesign_assignment3
+WebDesign
 =====================
